@@ -1,16 +1,15 @@
 {
-  "name": "hsb2rgb",
-  "version": "1.0.2",
+  "name": "jankuca-hsb2rgb",
   "description": "HSV (HSB) to RGB color converter",
-
-  "author": "Jan Kuča <http://jankuca.com>",
-
+  "version": "1.0.2",
+  "keywords": [
+    "color",
+    "conversion",
+    "rgb",
+    "hsv",
+    "hsb"
+  ],
   "main": "src/hsb2rgb.js",
-  "scripts": {
-    "test": "mocha -R spec"
-  },
-
-  "devDependencies": {
-    "mocha": "*"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
